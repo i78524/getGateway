@@ -1,0 +1,14 @@
+(0). 作者：陳繹文 YiWen Chen (i78524@gmail.com)
+     日期：2020/07/29
+
+
+
+(1). 本程式為讀取本機網路設定之getway實作
+
+
+
+(2). 編譯指令
+gcc getGateway.c -o helloGateway
+
+
+本文結束
